@@ -4,5 +4,5 @@ using namespace std;
 
 int main() {
   std::cout << "Ayo" << endl;
-  return 2;
+  return 4;
 }
